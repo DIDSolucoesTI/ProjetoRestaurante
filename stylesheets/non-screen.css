@@ -143,6 +143,11 @@ img {
   border: 4px solid #fff6e9;
   max-width: 556px;
 }
+#termo{
+  padding-left: 20px;
+  
+}
+
 
 blockquote {
   background: transparent url('../images/blockquote-gfx-2x.png') 0 8px no-repeat;
